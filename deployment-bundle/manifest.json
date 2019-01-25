@@ -527,7 +527,10 @@
   },
   "files": {
     "app.R": {
-      "checksum": "c602f0c3d262504501d41eb20688e08c"
+      "checksum": "939df25dcd9b013e6483492051f8cbbd"
+    },
+    "manifest.json": {
+      "checksum": "fd9b9f19a49de1862224c302defef0d1"
     },
     "packrat/desc/BH": {
       "checksum": "09f594fce9373c424229c876e0abde78"
