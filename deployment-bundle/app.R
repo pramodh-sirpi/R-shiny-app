@@ -13,7 +13,7 @@ library(shiny)
 ui <- fluidPage(
 
     # Application title
-    titlePanel("Title Changes - Courtesy of GitHub + Jenkins!"),
+    titlePanel("Application Updates with GitHub + Jenkins!"),
 
     # Sidebar with a slider input for number of bins 
     sidebarLayout(
